@@ -1,14 +1,14 @@
 # Site settings 
-title: Sandie Keerstock, PhD
-description: I research speech perception and production, first and second language processing and auditory memory 
-url: 'https://skrstck.github.io/'
+title: Roberto U. Cofresí, PhD
+description: Pavlovian and operant conditioning in problematic alcohol use. Translation from non-human animal models into humans
+url: 'https://skrstck.github.io/ruc'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Sandie Keerstock'
-  email: keerstock@utexas.edu
+  name: 'Roberto U. Cofresí'
+  email: cofresir@missouri.edu
   twitter_username: 
   facebook_username: 
   github_username:  skrstck
