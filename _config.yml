@@ -1,7 +1,7 @@
 # Site settings 
 title: Roberto U. Cofresí, PhD
 description: Pavlovian and operant conditioning in problematic alcohol use. Translation from non-human animal models into humans
-url: 'https://skrstck.github.io/ruc'
+url: 'https://rcofresi.github.io/'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
@@ -11,7 +11,7 @@ author:
   email: cofresir@missouri.edu
   twitter_username: 
   facebook_username: 
-  github_username:  skrstck
+  github_username:  rcofresi
   linkedin_username:  
 
 defaults:
